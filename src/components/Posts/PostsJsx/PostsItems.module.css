@@ -1,0 +1,12 @@
+.post {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    column-gap: 15px;
+    background-color: #ace1af;
+    border-radius: 10px;
+}
+.content {
+    display: flex;
+    column-gap: 15px;
+}
